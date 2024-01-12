@@ -7,7 +7,7 @@
 */
 
 /* theme */
-@import url(https://pastebin.com/raw/qHAreiPj);
+@import url(https://pastebin.com/raw/USUnjpPZ);
 
 /* icon revert davart154 */
 @import url(https://davart154.github.io/Themes/Icon%20Revert%202023/2023%20Icon%20Revert.css);
@@ -34,20 +34,4 @@
     --always-show-voicecontrols: 0 ; 
 
     --Font: "gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif ;
-}
-
-.wordmarkWindows-2dq6rw svg {
-display: none;
-}
-.wordmarkWindows-2dq6rw::after {
-content: 'wbe';
-display: block;
-position: relative;
-width: 200px;
-height: 16px;
-line-height: 16px;
-font-family: var(--font-headline);
-font-size: 11px;
-font-weight: 600;
-color: var(--muted-text);
 }
